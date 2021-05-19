@@ -3,6 +3,7 @@
 ### How to use:
 
 Run the Julia code to produce a heatmap like this one (by default it runs 250,000 iterations of each shooting percentage)
+
 ![Heatmap](./heatmap.png)
 
 ### How to read the heatmap
